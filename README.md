@@ -1,7 +1,14 @@
-# practicing-css-html
+#training-css-html
+Uma página para não-clientes do netflix.
 
-Esse repositório contém projetos front-end usados para praticar e aprender.
+Feito apenas com html e css.
 
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Sem back-end
 
-This repository contains front-end projects used to practice and learn.
+\\\\\\\\\\\\\\
+
+A page for non-netflix customers.
+
+Made only with html and css.
+
+No backend
