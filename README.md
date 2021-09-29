@@ -1,4 +1,3 @@
-#training-css-html
 Uma página para não-clientes do netflix.
 
 Feito apenas com html e css.
